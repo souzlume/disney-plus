@@ -1,0 +1,58 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.navegation {
+  padding: 25px;
+  background-color: black;
+  display: flex;
+  justify-content: space-evenly;
+}
+.navegation a {
+  color: white;
+  font-size: 18px;
+  position: relative;
+  text-decoration: none;
+}
+
+.disney {
+  height: 57vh;
+  width: 100%;
+}
+
+.container1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-top: 30px;
+}
+.container1 img {
+  height: 55vh;
+}
+
+.container2 {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.container2 img {
+  height: 55vh;
+}
+
+footer {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+}
+footer p {
+  color: white;
+  padding: 40px;
+}
+footer img {
+  height: 40px;
+  margin: 20px;
+}/*# sourceMappingURL=style.css.map */
